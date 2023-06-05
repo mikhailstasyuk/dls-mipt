@@ -1,3 +1,4 @@
 # ignore image files
 simpsons-image-classification/data/
 simpsons-image-classification/artifacts/
+simpsons-image-classification/database/
